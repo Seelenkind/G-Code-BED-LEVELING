@@ -1,4 +1,4 @@
-#G-CODE for Bed leveling for 3D Printers
+# G-CODE for Bed leveling for 3D Printers
 
 Start the G-code as usual as a printout.
 Each time the button is pressed, the nozzle moves to the next position (4 corners then to the center) and performs Z-homing. Then it goes up to 0.04 mm.
